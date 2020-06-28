@@ -186,7 +186,7 @@ def res_visulization(pred_result):
     x, y = m1(lon, lat)
     for city, xc, yc in zip(cities, x, y):
         ax1.text(xc - 60000, yc - 50000, city)
-    ax1.set_title('Twitter-based sentiment analysis about Trump ')
+    ax1.set_title('Twitter-based sentiment analysis about Biden ')
 
     m2 = Basemap(llcrnrlon=-119,llcrnrlat=22,urcrnrlon=-64,urcrnrlat=49,
                 projection='lcc',lat_1=33,lat_2=45,lon_0=-95, ax = ax3)
@@ -242,7 +242,7 @@ for obj in rawTrn_data['results'].values():
 trnData = sc.parallelize(trn_data)
 #print(trnData)
 
-with open('trump.json', 'r') as f:
+with open('biden.json', 'r') as f:
     rawTst_data = json.load(f)
     f.close()
 
@@ -258,6 +258,7 @@ model = RandomForest.trainClassifier(trnData, numClasses=3, categoricalFeaturesI
                                      numTrees=3, featureSubsetStrategy="auto",
                                      impurity='gini', maxDepth=4, maxBins=32)
 
+
 predictions = model.predict(tst_dataRDD.map(lambda x: x.features))
 labelsAndPredictions = tst_dataRDD.map(lambda lp: lp.label).zip(predictions)
 testErr = labelsAndPredictions.filter(lambda x: x[0] != x[1]).count() / float(tst_dataRDD.count())
@@ -267,4 +268,3 @@ print(model.toDebugString())
 # visulization the result
 res_visulization(predictions.collect())
 sc.stop()
-
