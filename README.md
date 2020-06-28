@@ -6,7 +6,7 @@ Skills applied: <br>
     2. Spark MLlib <br>
     3. Python library Basemap
 
-Please refer to Twitter Scrape for streaming. Data are processed: <br>
+Please refer to [Twitter Scrape](https://github.com/dataquestio/twitter-scrape) for streaming. Data are processed: <br>
     1. polarity: 0-positive, 1-netrual, 2-negative <br>
     2. user_localtion: exclude null and locations are not in the states <br>
 
