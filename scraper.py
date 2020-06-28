@@ -62,8 +62,6 @@ class StreamListener(tweepy.StreamListener):
 
 auth = tweepy.OAuthHandler(settings.TWITTER_APP_KEY, settings.TWITTER_APP_SECRET)
 auth.set_access_token(settings.TWITTER_KEY, settings.TWITTER_SECRET)
-# auth = tweepy.OAuthHandler('vBVfnclHZi1KFzi3f1UPJh4qe', 'rc2lDUjUbY4S1Gg5IYzO6bG4XOG2K6GdWc4vEvbKIc6oBH14pz')
-# auth.set_access_token('1275268092361392131-NcJGqzMdhh7sPQlnoBUjkPW3qcgDBl', 'Dhgm0F9kQNMDp1Ty27zJmNIpUw9APfePdhdc31NAwsO4n')
 api = tweepy.API(auth)
 
 stream_listener = StreamListener()
