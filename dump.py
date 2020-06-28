@@ -22,8 +22,6 @@ with open('us_cities.csv') as csvFile:
 data = {}
 results = {}
 with open('tweets.csv') as csvFile:
-# with open('trump.csv') as csvFile:
-# with open('biden.csv') as csvFile:
     csvReader = csv.DictReader(csvFile)
     for i, rows in enumerate(csvReader):
         result = {}
@@ -49,6 +47,4 @@ data['results'] = results
 data['meta'] = {}
 
 with open('tweets.json', 'w') as jsonFile:
-# with open('trump.json', 'w') as jsonFile:
-# with open('biden.json', 'w') as jsonFile:
     jsonFile.write(json.dumps(data, indent=4))
