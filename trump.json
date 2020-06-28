@@ -1,0 +1,818 @@
+{
+    "count": 491,
+    "results": {
+        "5": {
+            "id": 6.0,
+            "polarity": -0.4,
+            "text": "RT @PamelaUnplugged: A rise in infections after weeks of massive protests and violent riots which you and @NYGovCuomo allowed to run rampan\u2026",
+            "user_location": "Wisconsin",
+            "subjectivity": 1.0
+        },
+        "8": {
+            "id": 9.0,
+            "polarity": 0.0,
+            "text": "RT @ericgarland: Now that we know that Trump excused the Russians for paying Afghani militants to murder American soldiers, doesn't his inv\u2026",
+            "user_location": "Kentucky",
+            "subjectivity": 0.0
+        },
+        "12": {
+            "id": 13.0,
+            "polarity": -0.07500000000000001,
+            "text": "@SethAMandel All the more criminal that Trump \u201cclosed\u201d travel from China in late January, but did jack squat about\u2026 https://t.co/AtqAxRT6UQ",
+            "user_location": "North Dakota",
+            "subjectivity": 0.4375
+        },
+        "14": {
+            "id": 15.0,
+            "polarity": 0.0,
+            "text": "RT @haaohaoo: Ex-Marine Congressman on NYT story that Russia was offering bounties for the killing of US troops \u2014 with President Donald Tru\u2026",
+            "user_location": "Illinois",
+            "subjectivity": 0.0
+        },
+        "25": {
+            "id": 26.0,
+            "polarity": 0.525,
+            "text": "RT @AshaRangappa_: LOL the CEO is willing to pay a \u201cbounty\u201d (their words) of $20K for \u201ca\u201d liberal to join\n\nYou cannot make this up \ud83e\udd23 https:\u2026",
+            "user_location": "Arizona",
+            "subjectivity": 0.725
+        },
+        "30": {
+            "id": 31.0,
+            "polarity": 0.25,
+            "text": "RT @StessTheEmcee: Hey, if \u201cKnuck if you Buck\u201d is your protest song. Please be aware that @LILJAYWERKS, the producer is a Trump supporter.\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.25
+        },
+        "33": {
+            "id": 34.0,
+            "polarity": -0.2,
+            "text": "RT @mccaffreyr3: Trump says he never got briefed by CIA/DNI that Putin GRU Unit was paying bounties to get US troops killed. ZERO CHANCE TH\u2026",
+            "user_location": "Washington",
+            "subjectivity": 0.0
+        },
+        "38": {
+            "id": 39.0,
+            "polarity": 0.16666666666666669,
+            "text": "RT @TonyaWardell: @nedprice Ratcliffe is a stooge put in office to cover for trump. Nothing more nothing less.\nhttps://t.co/vEGOKfLl3G",
+            "user_location": "Nevada",
+            "subjectivity": 0.2833333333333333
+        },
+        "44": {
+            "id": 45.0,
+            "polarity": 0.2,
+            "text": "RT @Neil_McNeil: If anybody tries to tell you that protestors are the reason for the rise in cases nationwide, make sure they know this is\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.6444444444444444
+        },
+        "53": {
+            "id": 54.0,
+            "polarity": 0.0,
+            "text": "RT @DavidPriess: Hi. It\u2019s the President\u2019s Daily Brief guy.\n\nLet\u2019s look at the logic and the implications of the claim that neither Trump no\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.16666666666666666
+        },
+        "57": {
+            "id": 58.0,
+            "polarity": 0.0,
+            "text": "\u201eMike likes the Brawny\u201c",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "63": {
+            "id": 64.0,
+            "polarity": 0.0,
+            "text": "RT @HoarseWisperer: Over 7,000 Americans were diagnosed with COVID-19 while Trump was on the golf course today.",
+            "user_location": "Kentucky",
+            "subjectivity": 0.0
+        },
+        "65": {
+            "id": 66.0,
+            "polarity": 0.1,
+            "text": "RT @REMOVEdontrump: I lost 3 patients today. A child of 12, a young man of 28, and a 65 year old.I am 68 and an RN 48 years.",
+            "user_location": "Wisconsin",
+            "subjectivity": 0.4
+        },
+        "68": {
+            "id": 69.0,
+            "polarity": -0.1875,
+            "text": "RT @Goss30Goss: Sorry for the language today.\n\nI'm pretty upset over this Russian bounty on US troops while Trump turns a blind eye.\n\nI fuc\u2026",
+            "user_location": "North Dakota",
+            "subjectivity": 0.6666666666666666
+        },
+        "74": {
+            "id": 75.0,
+            "polarity": -0.3,
+            "text": "RT @RBReich: What do these people have in common? \n\nDonald Trump\nBill Barr \nMike Pence \nKayleigh McEnany\nBrad Parscale\nRonna McDaniel\nAlex\u2026",
+            "user_location": "Washington",
+            "subjectivity": 0.5
+        },
+        "76": {
+            "id": 77.0,
+            "polarity": 0.0,
+            "text": "RT @johnlegend: I just signed up for https://t.co/yBQaZJdgbn.  Every time Trump tweets, I will donate to swing state organizers committed t\u2026",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "91": {
+            "id": 92.0,
+            "polarity": 0.0,
+            "text": "RT @Gelman1Norman: @realTuckFrumper 0h-oh. I guess Trump and Pence never got their security clearances.  Know why?  Because Trump gave away\u2026",
+            "user_location": "Arkansas",
+            "subjectivity": 0.0
+        },
+        "92": {
+            "id": 93.0,
+            "polarity": 0.0,
+            "text": "RT @funder: Any Republican not calling for Trump\u2019s immediate removal is a traitor too.",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "96": {
+            "id": 97.0,
+            "polarity": -0.44999999999999996,
+            "text": "RT @WalshFreedom: For those of you NOW calling Trump a traitor, you\u2019re late to the dance. Read the fucking Mueller Report.\n\nTrump has been\u2026",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.7
+        },
+        "98": {
+            "id": 99.0,
+            "polarity": 0.0,
+            "text": "RT @ProjectLincoln: Trump doesn\u2019t protect the constitution. He doesn\u2019t protect our soldiers. He doesn\u2019t protect Americans from illness. He\u2026",
+            "user_location": "Washington",
+            "subjectivity": 0.0
+        },
+        "102": {
+            "id": 103.0,
+            "polarity": 0.0,
+            "text": "RT @PattyArquette: Do you care that Putin was targeting US soldiers and Trump did nothing? WHY DON'T YOU CARE?",
+            "user_location": "Texas",
+            "subjectivity": 0.0
+        },
+        "104": {
+            "id": 105.0,
+            "polarity": -0.16249999999999992,
+            "text": "RT @McFaul: This! The Trump alibi is as bad as the original crime. https://t.co/j32k3vFYoa",
+            "user_location": "South Carolina",
+            "subjectivity": 0.7083333333333333
+        },
+        "108": {
+            "id": 109.0,
+            "polarity": 0.0,
+            "text": "RT @ProjectLincoln: Putin paid a bounty to kill American soldiers. @realDonaldTrump knew about it but did nothing. How can Trump lead Ameri\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.0
+        },
+        "110": {
+            "id": 111.0,
+            "polarity": -0.5499999999999999,
+            "text": "RT @Thunderballs2: Briefed or not this happened on trump's watch as commander-in-chief. So, he's either a poor liar or a bad president. htt\u2026",
+            "user_location": "Illinois",
+            "subjectivity": 0.6333333333333333
+        },
+        "117": {
+            "id": 118.0,
+            "polarity": 0.0,
+            "text": "RT @brhodes: In this timeframe Trump was cozying up to Putin AND reaching out to the Taliban for his peace deal. He is not respected, liked\u2026",
+            "user_location": "Nebraska",
+            "subjectivity": 0.0
+        },
+        "119": {
+            "id": 120.0,
+            "polarity": 0.0,
+            "text": "RT @ChrisMurphyCT: Here\u2019s what we learned today:\n\nTrump found out Russia paid bounties to Taliban fighters to kill American soldiers in Afg\u2026",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "127": {
+            "id": 128.0,
+            "polarity": 0.6666666666666666,
+            "text": "@petestrzok @carbonlolly He fired you bc you were the best Russian expert. I knew. U are one of our best to serve t\u2026 https://t.co/Cv0Nkfni2F",
+            "user_location": "New Hampshire",
+            "subjectivity": 0.19999999999999998
+        },
+        "137": {
+            "id": 138.0,
+            "polarity": -0.05,
+            "text": "RT @timeindawater1: @ChrisMurphyCT We haven\u2019t forgotten Trump abandoning the Kurds in Syria and leaving US military bases to Russian troops\u2026",
+            "user_location": "Oregon",
+            "subjectivity": 0.05
+        },
+        "146": {
+            "id": 147.0,
+            "polarity": 0.0,
+            "text": "A hill of beans to die on \u2013 Chronicling Donald Trump\u2019s trade war with China https://t.co/WRr9MSLxCu @sgelb1",
+            "user_location": "Michigan",
+            "subjectivity": 0.0
+        },
+        "149": {
+            "id": 150.0,
+            "polarity": 0.35,
+            "text": "RT @AmbassadorRice: I don\u2019t believe this for a minute, but if it were true, it means that Trump is not even pretending to serve as commande\u2026",
+            "user_location": "West Virginia",
+            "subjectivity": 0.65
+        },
+        "152": {
+            "id": 153.0,
+            "polarity": 0.0,
+            "text": "RT @perlmutations: Either the White House didn\u2019t tell Trump that Putin put a bounty on US soldiers' heads or he knew and did nothing. The f\u2026",
+            "user_location": "Utah",
+            "subjectivity": 0.0
+        },
+        "161": {
+            "id": 162.0,
+            "polarity": 0.0,
+            "text": "RT @KimMangone: Retweet if you know Trump knew.",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "164": {
+            "id": 165.0,
+            "polarity": 0.0,
+            "text": "RT @waltshaub: Let's pretend for one minute that Trump is not lying when he says he didn't know about the Russians putting a bounty on U.S.\u2026",
+            "user_location": "Missouri",
+            "subjectivity": 0.0
+        },
+        "174": {
+            "id": 175.0,
+            "polarity": 0.0,
+            "text": "RT @time4kind: The Reptilian Party is all psychophants now. \n\ud835\ude4f\ud835\ude5d\ud835\ude5a\ud835\ude6e \ud835\ude68\ud835\ude61\ud835\ude5e\ud835\ude63\ud835\ude60 &amp; \ud835\ude68\ud835\ude69\ud835\ude5e\ud835\ude63\ud835\ude60. #VoteBlueOrDie\n#TRE45ON  #AmericaOrTrump",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "187": {
+            "id": 188.0,
+            "polarity": 0.13636363636363635,
+            "text": "RT @ZTPetrizzo: NEW: TikTok users are trolling the Trump campaign yet again. This time by employing a tactic called \u201cshopping cart abandonm\u2026",
+            "user_location": "Virginia",
+            "subjectivity": 0.45454545454545453
+        },
+        "190": {
+            "id": 191.0,
+            "polarity": 0.0,
+            "text": "RT @SethAbramson: Anyone else feel like Trump's presidency is collapsing before our eyes",
+            "user_location": "Kentucky",
+            "subjectivity": 0.0
+        },
+        "195": {
+            "id": 196.0,
+            "polarity": 0.0,
+            "text": "@fionamflanagan1 @ShaunAlenBryant Q and the govt rising up through Trump &amp; Q (and anons helping the cause) are the\u2026 https://t.co/IyUpXUGaMA",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "196": {
+            "id": 197.0,
+            "polarity": 0.0,
+            "text": "@helenmallam But it's quite the leap from the woman who \"doesn't know\" whether Trump is a racist...credit where cre\u2026 https://t.co/89JKzjhS2Q",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "203": {
+            "id": 204.0,
+            "polarity": 0.3,
+            "text": "RT @JoeBiden: Every day that Donald Trump sits in the Oval Office, he proves just how unfit he is to lead our nation.",
+            "user_location": "Texas",
+            "subjectivity": 0.0
+        },
+        "204": {
+            "id": 205.0,
+            "polarity": -0.023809523809523808,
+            "text": "RT @BlueGhost40_: @SteveSchmidtSES Every single American newspaper and the American Press must use the power of their platform and call for\u2026",
+            "user_location": "Wyoming",
+            "subjectivity": 0.07142857142857142
+        },
+        "213": {
+            "id": 214.0,
+            "polarity": -0.5,
+            "text": "RT @briantylercohen: Were you wondering why, randomly, Trump began accusing Obama of treason? It\u2019s because he knew this story was coming ou\u2026",
+            "user_location": "Oklahoma",
+            "subjectivity": 0.5
+        },
+        "217": {
+            "id": 218.0,
+            "polarity": -0.15,
+            "text": "RT @bradpsychology: Is Trump a narcissist?\n\nA diagnosis requires at least five of the following nine traits.\n\nGrandiosity/self-importance,\u2026",
+            "user_location": "California",
+            "subjectivity": 0.25
+        },
+        "219": {
+            "id": 220.0,
+            "polarity": 0.3,
+            "text": "RT @brhodes: 8. The trump people may think they\u2019re protecting Trump by saying he didn\u2019t know but that\u2019s far more damning. Who is looking ou\u2026",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.75
+        },
+        "220": {
+            "id": 221.0,
+            "polarity": 0.0,
+            "text": "RT @kurteichenwald: WHAT does Putin have on Donald Trump? #WeDeserveToKnow",
+            "user_location": "California",
+            "subjectivity": 0.0
+        },
+        "240": {
+            "id": 241.0,
+            "polarity": 0.0,
+            "text": "RT @freddyatton: #TraitorTrump | #TreasonTrump | #TrumpTreason | #RipTrump | #TraitorInChief | #Resign | #TrumpResign \n\n\u2014\u2014\u2014\n\nDEAL BREAKER \u2014\u2026",
+            "user_location": "Wisconsin",
+            "subjectivity": 0.0
+        },
+        "241": {
+            "id": 242.0,
+            "polarity": 0.0,
+            "text": "RT @DaveBautista: Please watch this!! Vote these @GOP cowards out!! #TrumpKillsUS",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "244": {
+            "id": 245.0,
+            "polarity": 0.0,
+            "text": "RT @DavidPepper: Front page.  Every newspaper.",
+            "user_location": "Ohio",
+            "subjectivity": 0.0
+        },
+        "247": {
+            "id": 248.0,
+            "polarity": 0.0,
+            "text": "RT @mdsharpe2: @SteveSchmidtSES Somebody knows..Per @maddow \n\nPer Axios Trump;s fourth NSC Russia director is leaving the WH\n\nPer Politico\u2026",
+            "user_location": "California",
+            "subjectivity": 0.0
+        },
+        "250": {
+            "id": 251.0,
+            "polarity": 0.0,
+            "text": "RT @murray_nyc: @SethAbramson Trump\u2019s presidency is indeed collapsing before our eyes. Accordingly, the weeks and months ahead will be very\u2026",
+            "user_location": "California",
+            "subjectivity": 0.0
+        },
+        "253": {
+            "id": 254.0,
+            "polarity": 0.0,
+            "text": "RT @ProjectLincoln: Donald Trump will defend a Confederate statue but not an American soldier.",
+            "user_location": "Georgia",
+            "subjectivity": 0.0
+        },
+        "268": {
+            "id": 269.0,
+            "polarity": 0.0,
+            "text": "RT @Bill_Maxwell_: Putin put a hit on US soldiers just to show the world that he can, and with no consequences.\n\nPutin is showing the world\u2026",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "270": {
+            "id": 271.0,
+            "polarity": 0.09999999999999998,
+            "text": "@thebradfordfile @gnomenreigen2 Imagine if JFK was alive today and a Democrat?. He would be treated worse than Trump by his own party.",
+            "user_location": "Tennessee",
+            "subjectivity": 0.6666666666666666
+        },
+        "280": {
+            "id": 281.0,
+            "polarity": 0.03333333333333333,
+            "text": "RT @TMZ: Trump Campaign Ordered Removal of Social Distancing Signs at Tulsa Rally https://t.co/9ysn5Wpqt2",
+            "user_location": "California",
+            "subjectivity": 0.06666666666666667
+        },
+        "281": {
+            "id": 282.0,
+            "polarity": 0.2857142857142857,
+            "text": "RT @NWPinPDX: Representative Ted Lieu: \u201cRussia is not our friend \u2014 and Vladimir Putin is not Donald Trump\u2019s buddy.\u201d\n\nHe\u2019s got that right.",
+            "user_location": "Kentucky",
+            "subjectivity": 0.5357142857142857
+        },
+        "282": {
+            "id": 283.0,
+            "polarity": 0.06666666666666667,
+            "text": "RT @SCmusic82: Almost half of US COVID-19 deaths are linked to nursing homes. \n\nDemocrats need to kill off as much of the older generations\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.2333333333333333
+        },
+        "284": {
+            "id": 285.0,
+            "polarity": 0.0,
+            "text": "RT @funder: Trump and Pence should be arrested for treason. So should their staff.",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "289": {
+            "id": 290.0,
+            "polarity": 0.0,
+            "text": "RT @TrumpNewsPolls: @ProjectLincoln And what crime is this?? https://t.co/tlGM5OQbTG",
+            "user_location": "Oregon",
+            "subjectivity": 0.0
+        },
+        "290": {
+            "id": 291.0,
+            "polarity": 0.0,
+            "text": "@HKrassenstein Lets face it no lieing no media hype no bs @realDonaldTrump is a traitor and should be held for trea\u2026 https://t.co/IAboDsr8wb",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "291": {
+            "id": 292.0,
+            "polarity": 0.2,
+            "text": "RT @Neil_McNeil: If anybody tries to tell you that protestors are the reason for the rise in cases nationwide, make sure they know this is\u2026",
+            "user_location": "New York",
+            "subjectivity": 0.6444444444444444
+        },
+        "299": {
+            "id": 300.0,
+            "polarity": 0.0,
+            "text": "RT @brhodes: 2. Given the hundreds of pieces of intel that would be briefed to him in this period, did the intel community think Trump woul\u2026",
+            "user_location": "South Carolina",
+            "subjectivity": 0.0
+        },
+        "304": {
+            "id": 305.0,
+            "polarity": 0.4,
+            "text": "RT @BetteMidler: So many nails in the coffin, so many last straws, so many lines in the sand, so many cherries on the cake. WE'VE LIVED THR\u2026",
+            "user_location": "Arizona",
+            "subjectivity": 0.4133333333333333
+        },
+        "305": {
+            "id": 306.0,
+            "polarity": 0.1,
+            "text": "RT @REMOVEdontrump: I lost 3 patients today. A child of 12, a young man of 28, and a 65 year old.I am 68 and an RN 48 years.",
+            "user_location": "Nevada",
+            "subjectivity": 0.4
+        },
+        "307": {
+            "id": 308.0,
+            "polarity": 0.0,
+            "text": "RT @sfpelosi: NARRATOR: \u201cHe can\u2019t\u201d",
+            "user_location": "Virginia",
+            "subjectivity": 0.0
+        },
+        "310": {
+            "id": 311.0,
+            "polarity": 0.0,
+            "text": "RT @InUnfunky: @TomJChicago \"The intelligence finding was briefed to President Trump, and the White House\u2019s National Security Council discu\u2026",
+            "user_location": "California",
+            "subjectivity": 0.0
+        },
+        "313": {
+            "id": 314.0,
+            "polarity": 0.02500000000000001,
+            "text": "Bill Barr: How an ideological attorney general made Trumpism possible - Vox https://t.co/g5ixHkhqBA",
+            "user_location": "New York",
+            "subjectivity": 0.75
+        },
+        "319": {
+            "id": 320.0,
+            "polarity": -0.051851851851851864,
+            "text": "RT @RBReich: So let me get this straight: Trump decried governors for locking down their states to prevent the spread of a deadly virus, bu\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.362962962962963
+        },
+        "323": {
+            "id": 324.0,
+            "polarity": 0.13636363636363635,
+            "text": "RT @ZTPetrizzo: NEW: TikTok users are trolling the Trump campaign yet again. This time by employing a tactic called \u201cshopping cart abandonm\u2026",
+            "user_location": "Michigan",
+            "subjectivity": 0.45454545454545453
+        },
+        "327": {
+            "id": 328.0,
+            "polarity": -0.1,
+            "text": "RT @emptywheel: Curiously, WH says CIA Director, NSA, and CoS will vouch that Trump AND Pence were not briefed. \n\nNYT also sought comment f\u2026",
+            "user_location": "California",
+            "subjectivity": 1.0
+        },
+        "329": {
+            "id": 330.0,
+            "polarity": 0.19285714285714287,
+            "text": "RT @kurtbardella: Why @realDonaldTrump is \"clearly\" losing to @JoeBiden right now...can't even get through a \"softball\" Q&amp;A with Hannity ..\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.4595238095238095
+        },
+        "330": {
+            "id": 331.0,
+            "polarity": 0.0,
+            "text": "RT @paul_lander: They\u2019re thinking of changing John Wayne Airpot to Orange County Airport, so they\u2019re gonna Rename it after Trump.",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "336": {
+            "id": 337.0,
+            "polarity": 0.0,
+            "text": "@poppopdoesstuff @Merce_the_cat @nytimes You are misinformed. Obama kept unaccompanied minors locked up for on aver\u2026 https://t.co/Yb6AS8bTuf",
+            "user_location": "Virginia",
+            "subjectivity": 0.0
+        },
+        "340": {
+            "id": 341.0,
+            "polarity": -0.1375,
+            "text": "RT @Dj_Dosk: So \u201cDefund the Police\u201d gets y\u2019all mad but defunding testing sites is cool... PLEASE VOTE 2020",
+            "user_location": "California",
+            "subjectivity": 0.825
+        },
+        "341": {
+            "id": 342.0,
+            "polarity": -0.6,
+            "text": "The fact that a federal judge had to decide to do this and not Trump is fucking shameful.",
+            "user_location": "Arkansas",
+            "subjectivity": 0.8
+        },
+        "342": {
+            "id": 343.0,
+            "polarity": -0.675,
+            "text": "RT @NWPinPDX: Trump isn\u2019t just evil, he\u2019s incompetent. https://t.co/2VuZfuyC5Z",
+            "user_location": "Texas",
+            "subjectivity": 0.6833333333333333
+        },
+        "343": {
+            "id": 344.0,
+            "polarity": 0.0,
+            "text": "RT @MonroeLoveTrump: @SouthSweetpea61 @AhlstromRick @KaysShoutOuts @MikkiB3045 @JesusismyBoss4 @PatriotTom2020 @thatfromanshow @EtheElephan\u2026",
+            "user_location": "Oklahoma",
+            "subjectivity": 0.0
+        },
+        "344": {
+            "id": 345.0,
+            "polarity": -0.3666666666666667,
+            "text": "RT @_TheArtivist_: This is such a random disappointment",
+            "user_location": "North Carolina",
+            "subjectivity": 0.4666666666666666
+        },
+        "346": {
+            "id": 347.0,
+            "polarity": 0.0,
+            "text": "USA vor der Wahl: Donald Trump l\u00e4sst die Lage absichtlich eskalieren: Vier Indizien, die daf\u00fcr sprechen https://t.co/xExlyZaaYR",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "348": {
+            "id": 349.0,
+            "polarity": -0.5,
+            "text": "RT @SethAbramson: Sorry for my language here but bullshit",
+            "user_location": "California",
+            "subjectivity": 1.0
+        },
+        "353": {
+            "id": 354.0,
+            "polarity": -0.75,
+            "text": "RT @JohnFugelsang: (32)\n\n @SenJohnMcCain demanded transparency, hearings and answers on Niger.  \n\nHe's not around now.\n\nAnd then there's Tr\u2026",
+            "user_location": "New York",
+            "subjectivity": 1.0
+        },
+        "364": {
+            "id": 365.0,
+            "polarity": 0.0,
+            "text": "RT @MaximilianJans2: In US outrage mounts over report Russia offered bounties to Afghanistan militants for killing US soldiers and Trump's\u2026",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "365": {
+            "id": 366.0,
+            "polarity": -0.21666666666666667,
+            "text": "RT @emptywheel: I think people are getting horribly gaslit by the WH quasi-denial of the NYT story. First, NYT says clearly Trump was brief\u2026",
+            "user_location": "California",
+            "subjectivity": 0.5722222222222222
+        },
+        "366": {
+            "id": 367.0,
+            "polarity": -1.0,
+            "text": "@Trina_Rosella @3zHimShiela @SixQ2Q2Q Ohhhh No!! This is Awful!!  **TRUMP 2020**",
+            "user_location": "Nevada",
+            "subjectivity": 1.0
+        },
+        "369": {
+            "id": 370.0,
+            "polarity": 0.0,
+            "text": "RT @ProjectLincoln: Donald Trump will defend a Confederate statue but not an American soldier.",
+            "user_location": "Texas",
+            "subjectivity": 0.0
+        },
+        "370": {
+            "id": 371.0,
+            "polarity": 0.0,
+            "text": "RT @mkraju: Why wouldn\u2019t the president or VP be told about this ?",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "375": {
+            "id": 376.0,
+            "polarity": 0.0,
+            "text": "RT @PamKeithFL: Raise your hand if Trump\u2019s fawning pro-Russia  performance at the Helsinki summit made your gut turn, and you couldn\u2019t unde\u2026",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "376": {
+            "id": 377.0,
+            "polarity": 0.1875,
+            "text": "RT @RichardDawkins: Come to my rally and infect each other but, whatever else happens, make sure I don\u2019t get infected.\nhttps://t.co/DjS8A7v\u2026",
+            "user_location": "Tennessee",
+            "subjectivity": 0.6319444444444444
+        },
+        "377": {
+            "id": 378.0,
+            "polarity": -0.6999999999999998,
+            "text": "RT @lindyli: \ud83d\udea8You know it\u2019s bad when even Fox News reports on Trump\u2019s #TRE45SON\n\n@realDonaldTrump, why did you sell out our country?\n\nWhy a\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.6666666666666666
+        },
+        "378": {
+            "id": 379.0,
+            "polarity": 0.0,
+            "text": "@StevePasquale Yes, or maybe consolidate Every state that votes for trump twice, since this would be proof of such\u2026 https://t.co/0P15a2WzGX",
+            "user_location": "Texas",
+            "subjectivity": 0.0
+        },
+        "380": {
+            "id": 381.0,
+            "polarity": 0.0,
+            "text": "RT @HumanistReport: Make this go viral. Get this cop fired. https://t.co/7v3r4E1zcr",
+            "user_location": "California",
+            "subjectivity": 0.0
+        },
+        "381": {
+            "id": 382.0,
+            "polarity": 0.0,
+            "text": "RT @MandaScott: Dear @Keir_Starmer \n\nPlease note that this is not anti_Semitism",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "382": {
+            "id": 383.0,
+            "polarity": 0.0,
+            "text": "RT @MuellerSheWrote: Yes. Some reports say the trump knew during impeachment. That would put the firing of the DNI Maguire in February in p\u2026",
+            "user_location": "Wisconsin",
+            "subjectivity": 0.0
+        },
+        "387": {
+            "id": 388.0,
+            "polarity": 0.3333333333333333,
+            "text": "RT @NathalieMolina: Tech executives, activists launch super PAC to stop President Trump's reelection by using his tweets against him - ABC\u2026",
+            "user_location": "Illinois",
+            "subjectivity": 0.6666666666666666
+        },
+        "396": {
+            "id": 397.0,
+            "polarity": 0.7,
+            "text": "RT @TheBabylonBee: At a press conference this morning, President Trump said \"Good morning.\" There was an immediate flood of news articles a\u2026",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.6000000000000001
+        },
+        "397": {
+            "id": 398.0,
+            "polarity": 0.0,
+            "text": "RT @lynnv378: Maybe it is just me but hearing about the Russians offering bounty\u2019s for the Taliban to kill American soldiers in Afghanistan\u2026",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "403": {
+            "id": 404.0,
+            "polarity": 0.3,
+            "text": "Covid-19 survivors could lose health insurance if Trump wins bid to repeal Obamacare https://t.co/q1ko4N9Ctm",
+            "user_location": "Texas",
+            "subjectivity": 0.2
+        },
+        "409": {
+            "id": 410.0,
+            "polarity": -0.5,
+            "text": "RT @richardhine: BREAKING: #60Minutes investigation reveals Trump knowingly allowed flawed #COVID19 antibody tests to circulate, leading to\u2026",
+            "user_location": "Arizona",
+            "subjectivity": 0.5
+        },
+        "419": {
+            "id": 420.0,
+            "polarity": -0.125,
+            "text": "RT @ChrisMurphyCT: President Trump is letting the Russians put bounties on the heads of our troops, but on the other hand he was in court t\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.375
+        },
+        "421": {
+            "id": 422.0,
+            "polarity": 0.0,
+            "text": "RT @DanielNewman: @_SJPeace_ https://t.co/91qJ5Oltvk",
+            "user_location": "Washington",
+            "subjectivity": 0.0
+        },
+        "425": {
+            "id": 426.0,
+            "polarity": -0.25,
+            "text": "RT @dvillella: @realDonaldTrump At the same time Corrupt Donald Trump was ignoring Putin putting a bounty on our soldiers' heads, he stole\u2026",
+            "user_location": "California",
+            "subjectivity": 0.5625
+        },
+        "427": {
+            "id": 428.0,
+            "polarity": -0.4375,
+            "text": "RT @JohnFugelsang: (10)\n-claimed, stupidly, that his military budget made up for his lack of military experience\n-Told wife #2 he'd disown\u2026",
+            "user_location": "Indiana",
+            "subjectivity": 0.55
+        },
+        "435": {
+            "id": 436.0,
+            "polarity": -0.3693181818181818,
+            "text": "RT @RawStory: Lincoln Project releases brutal new anti-Trump ad on Putin\u2019s reported bounty for killing of US troops \n https://t.co/qrHRaJg8\u2026",
+            "user_location": "West Virginia",
+            "subjectivity": 0.7272727272727273
+        },
+        "440": {
+            "id": 441.0,
+            "polarity": 0.0,
+            "text": "RT @HKrassenstein: BREAKING: Joe Biden just demolished Trump and his refusal to stand up to Russia.  This needs to go viral!  #TRE45ON\nhttp\u2026",
+            "user_location": "Pennsylvania",
+            "subjectivity": 0.0
+        },
+        "442": {
+            "id": 443.0,
+            "polarity": 0.0,
+            "text": "RT @mmpadellan: Raise your hand if you agree trump is a traitor for refusing to do ANYTHING after he learned that Russia put a bounty on ou\u2026",
+            "user_location": "Oklahoma",
+            "subjectivity": 0.0
+        },
+        "446": {
+            "id": 447.0,
+            "polarity": 0.25,
+            "text": "RT @ProjectLincoln: Donald Trump is more interested in being friends with an Authoritarian dictator than he is in protecting American soldi\u2026",
+            "user_location": "Texas",
+            "subjectivity": 0.3333333333333333
+        },
+        "447": {
+            "id": 448.0,
+            "polarity": 0.0,
+            "text": "RT @ProjectLincoln: Donald Trump will defend a Confederate statue but not an American soldier.",
+            "user_location": "West Virginia",
+            "subjectivity": 0.0
+        },
+        "456": {
+            "id": 457.0,
+            "polarity": 0.0,
+            "text": "RT @ProjectLincoln: Putin paid a bounty to kill American soldiers. @realDonaldTrump knew about it but did nothing. How can Trump lead Ameri\u2026",
+            "user_location": "Minnesota",
+            "subjectivity": 0.0
+        },
+        "458": {
+            "id": 459.0,
+            "polarity": 0.0,
+            "text": "No",
+            "user_location": "North Dakota",
+            "subjectivity": 0.0
+        },
+        "459": {
+            "id": 460.0,
+            "polarity": -0.2,
+            "text": "RT @StephenKing: 125,000 dead Americans and Donald Trump is playing golf.\nUnreal.",
+            "user_location": "New York",
+            "subjectivity": 0.4
+        },
+        "462": {
+            "id": 463.0,
+            "polarity": 0.7,
+            "text": "@craig56650487 @tweet1hz @JRehling @JoshNBCNews @PressSec Biden isn\u2019t a good candidate. But Trump has to go. He\u2019s a\u2026 https://t.co/SGIpsebbfg",
+            "user_location": "Utah",
+            "subjectivity": 0.6000000000000001
+        },
+        "467": {
+            "id": 468.0,
+            "polarity": 0.6000000000000001,
+            "text": "RT @AriFleischer: Amazing story.  It attributes the rise to bars, parties and a Trump rally.  Not a word, not a peep, no mention at all abo\u2026",
+            "user_location": "West Virginia",
+            "subjectivity": 0.9
+        },
+        "470": {
+            "id": 471.0,
+            "polarity": 0.0,
+            "text": "RT @AndreWolff_: aaaaaaaand conservatives are silent",
+            "user_location": "Maryland",
+            "subjectivity": 0.1
+        },
+        "471": {
+            "id": 472.0,
+            "polarity": 0.125,
+            "text": "@kaz_self @BorisJohnson Exactly. Do you wish to be considered to be the same as Presidents Trump, Bolsonaro, Orban\u2026 https://t.co/K1Rb8JCwm8",
+            "user_location": "West Virginia",
+            "subjectivity": 0.1875
+        },
+        "475": {
+            "id": 476.0,
+            "polarity": 0.0,
+            "text": "RT @Boba_Tea_Catan: \"On May 8\u2014weeks after Trump had been briefed on the bounty report\u2014Trump\u00a0told\u00a0reporters that the U.S. and Russia has a \u201c\u2026",
+            "user_location": "Wyoming",
+            "subjectivity": 0.0
+        },
+        "476": {
+            "id": 477.0,
+            "polarity": -0.05,
+            "text": "RT @funder: If you can excuse Trump\u2019s treason, you\u2019re a traitor too.",
+            "user_location": "North Dakota",
+            "subjectivity": 0.05
+        },
+        "482": {
+            "id": 483.0,
+            "polarity": 0.0,
+            "text": "RT @ProjectLincoln: Donald Trump will defend a Confederate statue but not an American soldier.",
+            "user_location": "California",
+            "subjectivity": 0.0
+        },
+        "488": {
+            "id": 489.0,
+            "polarity": 0.0,
+            "text": "RT @TeaPainUSA: Holy Crapola!",
+            "user_location": "Vermont",
+            "subjectivity": 0.0
+        }
+    },
+    "meta": {}
+}
