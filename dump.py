@@ -33,7 +33,13 @@ with open('tweets.csv') as csvFile:
                 if word in cities.keys():
                     if cities.get(word) != 'Puerto Rico' and cities.get(word) != 'District of Columbia':
                         result['id'] = float(rows['id'])
-                        result['polarity'] = float(rows['polarity'])
+                        pola = float(rows['polarity'])
+                        if pola > 0:
+                            result['polarity'] = 0
+                        elif pola < 0:
+                            result['polarity'] = 2
+                        else:
+                            result['polarity'] = 1
                         result['text'] = rows['text']
                         state = cities.get(word)
                         result['user_location'] = state
